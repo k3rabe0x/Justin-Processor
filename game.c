@@ -19,7 +19,7 @@ int main() {
         printf("Congratulations! You guessed correctly.\n");
     } else {
         printf("Sorry, you guessed wrong. The correct number was %d.\n", randomNumber);
-        printf("You've been pranked! Just kidding, better luck next time!\n");
+        printf("You've been pranked! Just kidding, No OS deleted\n");
     }
 
     return 0;
